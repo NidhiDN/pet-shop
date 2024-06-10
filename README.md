@@ -2,10 +2,11 @@
 Pets-Hub is a user-friendly dashboard designed to automate and simplify pet adoption management. It significantly reduces manual workload by up to 70% and improves the accuracy of product data by 90%
 ##  Snapshots
 ---
-![Pets-Hub Banner]<img width="1450" alt="260729574-8e363a26-08ad-47bf-b8ac-04af869f22f5" src="https://github.com/NidhiDN/pet-shop/assets/97749984/5ce93549-ce2a-443d-9b09-0197729ce7a9">
+<img width="1450" alt="260729574-8e363a26-08ad-47bf-b8ac-04af869f22f5" src="https://github.com/NidhiDN/pet-shop/assets/97749984/5ce93549-ce2a-443d-9b09-0197729ce7a9">
 
 ###  Landing Page
-![Landing Page]https://github.com/NidhiDN/pet-shop/blob/ba784dbdce24f8ddd56db5daea9fcf16157d944f/bgdog.png
+![Landing Page](https://github.com/NidhiDN/pet-shop/assets/97749984/2c1834d1-03d2-42db-88e7-5eb0693eb0c7)
+
 
 ### 🐶 Dogs for Adoption
 <img width="1275" alt="263657246-e0d6597b-1126-4167-9c52-ea6b8ce93a1a" src="https://github.com/NidhiDN/pet-shop/assets/97749984/0b892437-5c29-416f-a9b0-06a27ad8edeb">
