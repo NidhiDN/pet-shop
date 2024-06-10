@@ -13,11 +13,13 @@ Pets-Hub is a user-friendly dashboard designed to automate and simplify pet adop
 
 ### 🐱 Cats for Adoption
 <img width="1278" alt="263657490-77cc2a39-bd0f-4495-8c2d-b8d6eb6c72af" src="https://github.com/NidhiDN/pet-shop/assets/97749984/48309d35-fe4a-4d0f-83dc-d0fb0b6c16e7">
+
 ---
 ###  Sales Details
 <img width="1275" alt="263657838-9e7d4560-1232-4d73-a637-68d1d5f5e461" src="https://github.com/NidhiDN/pet-shop/assets/97749984/8b144a3e-3cd6-4710-8edc-ee8a80c12b61">
 
 ---
+
 ### 👥 Customer Details
 <img width="1470" alt="263657608-1487f9f6-1bd7-439b-b1d2-2ff7bde3639c" src="https://github.com/NidhiDN/pet-shop/assets/97749984/62de4e59-2747-4a5b-81c3-b0676985fde9">
 
